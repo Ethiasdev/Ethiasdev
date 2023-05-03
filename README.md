@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethiasdev&label=Profile%20views&color=0e75b6&style=flat" alt="ethiasdev" /> </p>
 
-- Connect with me: **bardia05.h@gmail.com**
+- How to reach me: **bardia05.h@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
